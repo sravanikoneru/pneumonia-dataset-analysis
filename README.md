@@ -7,19 +7,19 @@ https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset
 
 
 # Dependecies:
-<>jupyter
-<> matplotlib
-<> numpy
-<> scikit-learn
-<> torch
-<> torchvision
-<> pandas
-<> imageio
-<> seaborn
-<> glob3
-<> scipy
-<> keras
-<> skimage
+- jupyter
+- matplotlib
+- numpy
+- scikit-learn
+- torch
+- torchvision
+- pandas
+- imageio
+- seaborn
+- glob3
+- scipy
+- keras
+- skimage
 
 
 # Getting Started:
